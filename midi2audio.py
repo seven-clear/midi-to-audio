@@ -19,7 +19,7 @@ class FluidSynth():
         os.system(cmd)
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     fs = FluidSynth()
     f = "a.mid"
     # fs.play_midi(f)
